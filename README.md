@@ -1,5 +1,5 @@
 <div id="header" align="center"> 
-  <h1> Hey 👋, I'm Samantha Horsch </> <br/>
+  <h1> Hey, ✨ I'm Samantha Horsch ✨ </> <br/>
   <h3>Email: samantha.horsch@yandex.com</h3>
   <a href="https://www.linkedin.com/in/samantha-horsch">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -68,9 +68,22 @@ I look forward to connecting and collaborating 🤗
 <br />
   
 
-  ### Recents Projects
-  #### "Around the U.S."
-  * <a href="https://github.com/Samm96/around-express.git">Express Repository</a> <br/>
-  * <a href="https://github.com/Samm96/around-react/tree/main/around-react">React Repository</a>
-  * <a href="https://samm96.github.io/around-react/">React Live Site</a>
+## Recents Projects
+#### "Around the U.S."  via Practicum  -- PROJECT ONGOING
+_A responsive social media page: the frontend coded using HTML, CSS and JavaScript and refactored into REACT code, the backend using Express._
+* <a href="https://github.com/Samm96/around-express.git">Express Repository (Backend)</a> <br/>
+* <a href="https://github.com/Samm96/around-react/tree/main/around-react">React Repository</a>
+* <a href="https://samm96.github.io/around-react/">React Live Site</a>
+  </div>
+
+
+#### "Homeland to Homeland" via Practicum
+_A responsive landing page using HTML and CSS that showcases the different locations Practicum contributors reside._
+* <a href="https://github.com/Samm96/web_project_3.git">Repository</a>
+* <a href="https://samm96.github.io/web_project_3/">Live Site</a>
+
+#### "Learning How to Learn" via Practicum
+_A responsive landing page coded only with HTML and CSS that acts as an introduction to the Practicum website._
+* <a href="https://github.com/Samm96/web_project_1.git">Repository</a>
+* <a href="https://samm96.github.io/web_project_1/">Live Site</a>
 
