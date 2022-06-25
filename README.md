@@ -1,9 +1,10 @@
 <div id="header" align="center"> 
   <h1> Hey 👋, I'm Samantha Horsch </> <br/>
   <h3>Email: samantha.horsch@yandex.com</h3>
-  <a href="www.linkedin.com/in/samantha-horsch">
+  <a href="https://www.linkedin.com/in/samantha-horsch">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+</div>
  
  <br />
  <br />
@@ -66,10 +67,10 @@ I look forward to connecting and collaborating 🤗
 <br />
 <br />
   
-<div id="projects" align="left">
-  <h2>Recents Projects</h2>
-  <h3>"Around the U.S."</h3>
-  * <a href="https://github.com/Samm96/around-express.git">Express Repository</a>
+
+  ### Recents Projects
+  #### "Around the U.S."
+  * <a href="https://github.com/Samm96/around-express.git">Express Repository</a> <br/>
   * <a href="https://github.com/Samm96/around-react/tree/main/around-react">React Repository</a>
   * <a href="https://samm96.github.io/around-react/">React Live Site</a>
-</div>
+
