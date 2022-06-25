@@ -1,29 +1,30 @@
 <div id="header" align="center"> 
   <h1> Hey 👋, I'm Samantha Horsch </> <br/>
   <h3>Email: samantha.horsch@yandex.com</h3>
-  <a href="www.linkedin.com/in/samantha-horsch"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <div>
+  <a href="www.linkedin.com/in/samantha-horsch">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+ 
+ <br />
+ <br />
+
+
+I am a multicultural woman with a background in broadcast radio/television and visual communications (a.k.a multimedia design).
+
+I'm always looking for a challenge and coding definitely became that. I'm on my way to becoming a full-stack developer! 👏 👏 👏
+  
+Some of my hobbies include anime, gaming, weightlifting, boxing and digital art.
+
+I look forward to connecting and collaborating 🤗
+
   <br />
   
-<div id="body" align="center">
-<p>I am a multicultural woman with a background in broadcast radio/television and visual communications (a.k.a multimedia design).</>
-
-<p> I'm always looking for a challenge and coding definitely became that. I'm on my way to becoming a full-stack developer! 👏 👏 👏 </>
-  
-  <p>Some of my hobbies include anime, gaming, weightlifting, boxing and digital art.</>
-
-<p> I look forward to connecting and collaborating 🤗 </>
-  
-  <br/>
-  
-  
 <img width="200" align="right" src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif"/>
-  </div>
-<br />
+
 
 <div id="languages" align="start">
 <h3>Languages & Tools</h3>
-  <div align="center">
+  <div>
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -42,9 +43,33 @@
 
 <br />
 <br />
+  
 <div id="charts">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samm96&layout=compact&theme=codeSTACKr" />
   <br/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Samm96&theme=codeSTACKr"/>
    <img align="left" width="200" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
   </div>
+  
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+  
+<div id="projects" align="left">
+  <h2>Recents Projects</h2>
+  <h3>"Around the U.S."</h3>
+  * <a href="https://github.com/Samm96/around-express.git">Express Repository</a>
+  * <a href="https://github.com/Samm96/around-react/tree/main/around-react">React Repository</a>
+  * <a href="https://samm96.github.io/around-react/">React Live Site</a>
+</div>
