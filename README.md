@@ -36,6 +36,7 @@
 <br />
 <br />
 <div id="charts">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samm96&layout=compact&theme=codeSTACKr" width="50%"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Samm96&theme=codeSTACKr" width="50%"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samm96&layout=compact&theme=codeSTACKr" width="50%"/>
+  <br/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Samm96&theme=codeSTACKr" width="50%"/>
   </div>
