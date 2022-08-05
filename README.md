@@ -72,7 +72,7 @@ I look forward to connecting and collaborating 🤗
 
 #### "WTWR" Apiary
 _A team collaboration for a responsive site that determines what a user should wear based on weather where the user is located and the clothing they upload. Created for future sprints in the Practicum curriculum_
-* <a href="https://wtwr.students.nomoredomainssbs.ru/>Live Site</a>
+* <a href="https://wtwr.students.nomoredomainssbs.ru/">Live Site</a>
 
 #### "Around the U.S."  via Practicum
 _A responsive social media page: the frontend coded using HTML, CSS and JavaScript and refactored into REACT code, the backend using Express._
