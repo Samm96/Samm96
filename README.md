@@ -69,11 +69,10 @@ I look forward to connecting and collaborating 🤗
   
 
 ## Recents Projects
-#### "Around the U.S."  via Practicum  -- PROJECT ONGOING
+#### "Around the U.S."  via Practicum
 _A responsive social media page: the frontend coded using HTML, CSS and JavaScript and refactored into REACT code, the backend using Express._
-* <a href="https://github.com/Samm96/around-express.git">Express Repository (Backend)</a> <br/>
-* <a href="https://github.com/Samm96/around-react/tree/main/around-react">React Repository</a>
-* <a href="https://samm96.github.io/around-react/">React Live Site</a>
+* <a href="https://samantha-horsch-around-us.students.nomoredomainssbs.ru">Live Site (Full Project)</a>
+* <a href="https://github.com/Samm96/react-around-api-full">Full Project Code</a>
   </div>
 
 
