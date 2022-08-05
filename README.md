@@ -71,7 +71,7 @@ I look forward to connecting and collaborating 🤗
 ## Recents Projects
 
 #### "WTWR" Apiary
-_A team collaboration for a responsive site that determines what a user should wear based on weather where the user is located and the clothing they upload. Created for future sprints in the Practicum curriculum_
+_A team collaboration for a responsive React App that determines what a user should wear based on weather where the user is located and the clothing they upload. Created for future sprints in the Practicum curriculum_
 * <a href="https://wtwr.students.nomoredomainssbs.ru/">Live Site</a>
 
 #### "Around the U.S."  via Practicum
