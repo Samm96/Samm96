@@ -72,6 +72,7 @@ I look forward to connecting and collaborating 🤗
 
 #### "WTWR: What to Wear" Apiary
 _A team collaboration for a responsive React App that determines what a user should wear based on weather where the user is located and the clothing they upload. Created for future sprints in the Practicum curriculum_
+* <a href="https://github.com/Samm96/wtwr-app">Repository</a>
 * <a href="https://wtwr.students.nomoredomainssbs.ru/">Live Site</a>
 
 #### "Around the U.S."  via Practicum
