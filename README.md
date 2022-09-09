@@ -4,7 +4,12 @@
   <a href="https://www.linkedin.com/in/samantha-horsch">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-  <a href="https://codepen.io/samm96/pens/showcase"></a>
+  <a href="https://codepen.io/samm96/pens/showcase">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+ </a>
+ <a href="https://www.codewars.com/users/Samm96">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
+  </a>
 </div>
  
  <br />
