@@ -4,6 +4,7 @@
   <a href="https://www.linkedin.com/in/samantha-horsch">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+  <a href="https://codepen.io/samm96/pens/showcase"></a>
 </div>
  
  <br />
