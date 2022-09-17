@@ -76,18 +76,19 @@ I look forward to connecting and collaborating 🤗
 
 ## Recents Projects
 
-#### "WTWR: What to Wear" Apiary
+#### "NewsExplorer: What's going on in the world? (Final Project)" via Practicum
+_A responsive REACT website that allows the user to search for news articles and save them when signed in or signed up._
+* <a href="https://sam-news-explorer.students.nomoredomainssbs.ru/">Live Site</a>
+* <a href="https://github.com/Samm96/news-explorer-frontend">Frontend Code</a>
+* <a href="https://github.com/Samm96/news-explorer-backend/tree/stage-back-end">Backend Code</a>
+
+#### "WTWR: What to Wear" Apiary | Client: Practicum
 _A team collaboration for a responsive React App that determines what a user should wear based on weather where the user is located and the clothing they upload. Created for future sprints in the Practicum curriculum_
-* <a href="https://github.com/Samm96/wtwr-app">Repository</a>
 * <a href="https://wtwr.students.nomoredomainssbs.ru/">Live Site</a>
+* <a href="https://github.com/Samm96/wtwr-app">Repository</a>
 
 #### "Around the U.S."  via Practicum
 _A responsive social media page: the frontend coded using HTML, CSS and JavaScript and refactored into REACT code, the backend using Express._
-* <a href="https://github.com/Samm96/react-around-api-full">Repository</a>
 * <a href="https://samantha-horsch-around-us.students.nomoredomainssbs.ru">Live Site (Full Project)</a>
+* <a href="https://github.com/Samm96/react-around-api-full">Repository</a>
   </div>
-
-#### "Homeland to Homeland" via Practicum
-_A responsive landing page using HTML and CSS that showcases the different locations Practicum contributors reside._
-* <a href="https://github.com/Samm96/web_project_3.git">Repository</a>
-* <a href="https://samm96.github.io/web_project_3/">Live Site</a>
