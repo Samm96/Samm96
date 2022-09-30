@@ -10,6 +10,9 @@
  <a href="https://www.codewars.com/users/Samm96">
     <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/Samm96/">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    </a>
 </div>
  
  <br />
