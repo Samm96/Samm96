@@ -55,7 +55,7 @@ I look forward to connecting and collaborating 🤗
 <br />
   
 <div id="charts">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samm96&layout=compact&theme=codeSTACKr" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samm96&langs_count=4&layout=compact&theme=codeSTACKr" />
   <br/>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=Samm96&hide=stars&theme=codeSTACKr"/>
    <img align="left" width="200" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
