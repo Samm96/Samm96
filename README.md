@@ -25,6 +25,8 @@ I'm always looking for a challenge and coding definitely became that. I'm on my 
   
 Some of my hobbies include anime, gaming, weightlifting, boxing and digital art.
 
+I'm currently learning C++ on my own time 💯 
+
 I look forward to connecting and collaborating 🤗
 
   <br />
