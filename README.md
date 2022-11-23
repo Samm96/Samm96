@@ -21,11 +21,11 @@
 
 I am a multicultural woman with a background in broadcast radio/television and visual communications (a.k.a multimedia design).
 
-I'm always looking for a challenge and coding definitely became that. I'm on my way to becoming a full-stack developer! 👏 👏 👏
+I'm always looking for a challenge and coding definitely became that. I'm currently a freelance full-stack developer looking for work! 😎
   
 Some of my hobbies include anime, gaming, weightlifting, boxing and digital art.
 
-I'm currently learning C++ and Python on my own time 💯 
+I'm currently learning C++, Python and Java on my own time 💯 
 
 I look forward to connecting and collaborating 🤗
 
