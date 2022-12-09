@@ -92,20 +92,24 @@ I look forward to connecting and collaborating 🤗
 <br />
   
 
-## Recents Projects
+## Recents Projects 
 
-#### "NewsExplorer: What's going on in the world? (Final Project)" via Practicum
+#### "Sindano Health" Externship | Client: Sindano Health
+_A responsive REACT landing page created via a voluntary collaboration between four other developers and myself, complete with a LinkedIn autofill form and functioning backend._
+* <a href="https://github.com/Samm96/sindano">Repository</a>
+
+#### "NewsExplorer: What's going on in the world? (Final Project)" via Practicum USA
 _A responsive REACT website that allows the user to search for news articles and save them when signed in or signed up._
 * <a href="https://sam-news-explorer.students.nomoredomainssbs.ru/">Live Site</a>
 * <a href="https://github.com/Samm96/news-explorer-frontend">Frontend Code</a>
 * <a href="https://github.com/Samm96/news-explorer-backend/tree/stage-back-end">Backend Code</a>
 
-#### "WTWR: What to Wear" Apiary | Client: Practicum
+#### "WTWR: What to Wear" Externship | Client: Practicum USA
 _A team collaboration for a responsive React App that determines what a user should wear based on weather where the user is located and the clothing they upload. Created for future sprints in the Practicum curriculum_
 * <a href="https://wtwr.students.nomoredomainssbs.ru/">Live Site</a>
 * <a href="https://github.com/Samm96/wtwr-app">Repository</a>
 
-#### "Around the U.S."  via Practicum
+#### "Around the U.S."  via Practicum USA
 _A responsive social media page: the frontend coded using HTML, CSS and JavaScript and refactored into REACT code, the backend using Express._
 * <a href="https://samantha-horsch-around-us.students.nomoredomainssbs.ru">Live Site (Full Project)</a>
 * <a href="https://github.com/Samm96/react-around-api-full">Repository</a>
