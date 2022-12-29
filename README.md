@@ -96,7 +96,8 @@ I look forward to connecting and collaborating 🤗
 
 #### "Sindano Health" Externship | Client: Sindano Health
 _A responsive REACT landing page created via a voluntary collaboration between four other developers and myself, complete with a LinkedIn autofill form and functioning, serverless backend._
-* <a href="https://github.com/Samm96/sindano">Repository</a>
+* <a href="https://samm96.github.io/sindano-landing-page/#/">GitHub Pages</a>
+* <a href="https://github.com/Samm96/sindano-landing-page">Repository</a>
 
 #### "NewsExplorer: What's going on in the world? (Final Project)" via Practicum USA
 _A responsive REACT website that allows the user to search for news articles and save them when signed in or signed up._
