@@ -1,6 +1,5 @@
 <div id="header" align="center"> 
   <h1> Hey, ✨ I'm Samantha Horsch ✨ </> <br/>
-  <h3>Email: sihorsch96@gmail.com</h3>
   <a href="https://www.linkedin.com/in/samantha-horsch">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
